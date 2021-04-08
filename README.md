@@ -24,7 +24,7 @@ Download it directly from the [sourceforge](https://sourceforge.net/projects/vcx
 
 ### **Important:** Make sure you start XLaunch.exe that we just downloaded and keep it running in the background.
 
-<!-- ![XLaunch]() -->
+![XLaunch](https://raw.githubusercontent.com/Ignema/ns2-nam-docker/main/img/xlaunch.png)
 
 Make sure you check *Disable Access Control* !
 
@@ -34,7 +34,7 @@ Make sure you check *Disable Access Control* !
 
     C:\> ipconfig
 
-<!-- ![ipconfig]() -->
+![ipconfig](https://raw.githubusercontent.com/Ignema/ns2-nam-docker/main/img/ipconfig.png)
 
 #### Linux
 
@@ -42,7 +42,7 @@ Make sure you check *Disable Access Control* !
     #
     # ifconfig
 
-<!-- ![ifconfig]() -->
+![ifconfig](https://raw.githubusercontent.com/Ignema/ns2-nam-docker/main/img/ifconfig.png)
 
 ### 5. Run the docker container from the image we built
 
@@ -50,4 +50,4 @@ Make sure you check *Disable Access Control* !
 
 ## Enjoy!
 
-<!-- ![nam]() -->
+![nam](https://raw.githubusercontent.com/Ignema/ns2-nam-docker/main/img/nam.png)
